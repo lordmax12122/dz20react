@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz20react/static/css/main.160dce39.css",
+    "main.js": "/dz20react/static/js/main.b8eb4787.js",
+    "index.html": "/dz20react/index.html",
+    "main.160dce39.css.map": "/dz20react/static/css/main.160dce39.css.map",
+    "main.b8eb4787.js.map": "/dz20react/static/js/main.b8eb4787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.160dce39.css",
+    "static/js/main.b8eb4787.js"
+  ]
+}
